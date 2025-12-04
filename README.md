@@ -24,7 +24,7 @@ Outside of my 8:30–17:00 day job, I spend evenings working on research project
 - Natural Language Processing  
 - Cybersecurity  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vnmrsharma&theme=dark)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vnmrsharma&theme=dark)](vinamrasharma.com)
 
 > **I believe in free, quality education is a fundamental right for every human being; therefore building:** [Mcurio](https://mcurio.com)(Previously known as PERPLEXED) 
 > **I care about the environment; so developing** [ClimateThread](https://climatethread.com)  
